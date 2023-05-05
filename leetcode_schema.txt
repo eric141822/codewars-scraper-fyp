@@ -1,0 +1,11 @@
+{
+    "id": int,
+    "level": int,
+    "title": string,
+    "question": string,
+    "solution": {
+        "id": int,
+        "canSeeDetail": boolean,
+        "__typename": string,
+    }    
+}

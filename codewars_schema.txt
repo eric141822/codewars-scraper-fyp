@@ -1,0 +1,7 @@
+{
+    "name": string,
+    "category": string,
+    "description": string,
+    "good": [string],
+    "bad": [string]
+}
